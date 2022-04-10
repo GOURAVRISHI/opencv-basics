@@ -1,0 +1,5 @@
+matplotlib
+notebook
+pandas
+numpy 
+opencv
