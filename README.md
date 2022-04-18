@@ -1,2 +1,2 @@
-# Open CV Basics
-Open CV Basics
+# opencv-basics
+
